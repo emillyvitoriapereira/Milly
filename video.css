@@ -1,0 +1,15 @@
+body {
+    color: rgb(0, 133, 138);
+    background-color: burlywood;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding-left: 300px;
+    padding-right: 300px;
+
+}
+.center {
+    text-align: center;
+}
